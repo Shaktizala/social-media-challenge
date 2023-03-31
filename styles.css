@@ -1,0 +1,13 @@
+body{
+    font-family: 'Inter', sans-serif !important;
+}
+.navbar{
+    background-color: hsl(225, 100%, 98%) !important;
+}
+.navbar-brand small {
+    display:block;
+    font-size:12px;
+}
+.form-check-label{
+    color: hsl(228, 34%, 66%);
+}
